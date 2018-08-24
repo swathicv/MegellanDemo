@@ -1,0 +1,11 @@
+services:
+  microapp:
+    build:
+      context: C:\Swathi\MICROSERVICES\MicroApp
+      dockerfile: MicroApp/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: microapp
+    ports:
+    - target: 80
+version: '3.4'

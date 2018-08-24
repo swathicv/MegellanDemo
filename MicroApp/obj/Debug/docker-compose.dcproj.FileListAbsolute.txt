@@ -1,0 +1,1 @@
+C:\Swathi\MICROSERVICES\MicroApp\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

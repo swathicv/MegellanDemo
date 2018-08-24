@@ -1,0 +1,11 @@
+C:\Swathi\MICROSERVICES\MicroApp\MicroApp\bin\Release\netcoreapp2.0\MicroApp.deps.json
+C:\Swathi\MICROSERVICES\MicroApp\MicroApp\bin\Release\netcoreapp2.0\MicroApp.runtimeconfig.json
+C:\Swathi\MICROSERVICES\MicroApp\MicroApp\bin\Release\netcoreapp2.0\MicroApp.runtimeconfig.dev.json
+C:\Swathi\MICROSERVICES\MicroApp\MicroApp\bin\Release\netcoreapp2.0\MicroApp.dll
+C:\Swathi\MICROSERVICES\MicroApp\MicroApp\bin\Release\netcoreapp2.0\MicroApp.pdb
+C:\Swathi\MICROSERVICES\MicroApp\MicroApp\obj\Release\netcoreapp2.0\MicroApp.csprojAssemblyReference.cache
+C:\Swathi\MICROSERVICES\MicroApp\MicroApp\obj\Release\netcoreapp2.0\MicroApp.csproj.CoreCompileInputs.cache
+C:\Swathi\MICROSERVICES\MicroApp\MicroApp\obj\Release\netcoreapp2.0\MicroApp.AssemblyInfoInputs.cache
+C:\Swathi\MICROSERVICES\MicroApp\MicroApp\obj\Release\netcoreapp2.0\MicroApp.AssemblyInfo.cs
+C:\Swathi\MICROSERVICES\MicroApp\MicroApp\obj\Release\netcoreapp2.0\MicroApp.dll
+C:\Swathi\MICROSERVICES\MicroApp\MicroApp\obj\Release\netcoreapp2.0\MicroApp.pdb

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  microapp:
+    image: ${DOCKER_REGISTRY}microapp
+    build:
+      context: .
+      dockerfile: MicroApp/Dockerfile
